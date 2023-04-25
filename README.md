@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding,datascience
 - 🌱 I’m currently learning 
 
-       -> 👨‍💻Coding in JAVA(including DSA)
+       -> 👨‍💻Coding in JAVA
      
        -> 🏫📚📐📏 Datascience
 - 📫 mail me:jhaideepthodupunuri09@gmail.com
